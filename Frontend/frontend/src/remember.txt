@@ -1,0 +1,3 @@
+we are using react slick to make the sliding effect in the card display 
+npm install react-slick --save
+
